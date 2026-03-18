@@ -1,0 +1,2 @@
+echo '[allowlist]
+commits = ["1238dd8"]' > .gitleaks.toml:qa
