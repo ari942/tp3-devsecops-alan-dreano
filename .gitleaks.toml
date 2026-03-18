@@ -1,2 +1,8 @@
 echo '[allowlist]
-commits = ["1238dd8"]' > .gitleaks.toml:qa
+commits = [
+  "e9836170cd727622ac7c8dfd20a76cd4f7e10ce1",
+  "192f35ba56ced7615bc1e5a228dc4699abc991ec",
+  "ebcbad39da8ece12509eaee76259dc43be829334",
+  "1238dd8e1bbede8a18cf8cc7268ad3c788052fd4",
+  "50975b1d2c6b0c4e6fc3b626cb9d89f524ddd58e"
+]' > .gitleaks.toml
